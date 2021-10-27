@@ -5,3 +5,4 @@ Projeto para monitoramento do status dos ambientes ativos da area de games.
 * Python
 * Postmark
 * Bitbucket Pipelines
+* Poetry
